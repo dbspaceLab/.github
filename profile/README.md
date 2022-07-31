@@ -7,7 +7,7 @@ The main project of this organization is ```dbspace```, a Python library for mod
 
 ## Why the name?
 DBS stands for deep brain stimulation, which is used as a treatment for severe neuropsychiatric illnesses.
-It uses surgically implanted electrodes to deliver electrical currents into brain structures, currents that seem to improve a patient's clinical state.
+It uses surgically implanted electrodes to deliver electrical currents into brain structures, currents that seem to improve a patient's clinical *state*.
 
 One way DBS is thought to work is to modulate the *state* of the brain, maybe even the *statespace* of the brain.
 Understanding how DBS changes this statespace in a way that alleviates symptoms needs more than.
