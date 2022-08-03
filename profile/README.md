@@ -9,7 +9,8 @@ This is a bit of an experiment, so let's make sure it's fun, above all.
 ### Goals
 Science is the inference of generative distributions using, in some way, data to keep models aligned to reality. 
 Everything else is in service to that or noise.
-This lab is an effort to refocus on science and discard, wholesale, the noise.
+
+This laboratory is an effort to refocus on the signal of science and circumvent the noise.
 
 ### Principles
 
