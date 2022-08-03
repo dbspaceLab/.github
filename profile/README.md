@@ -17,6 +17,7 @@ The core principles of the lab are straightforward:
 * Community > Technology
 * Education >> Production
 * Exploration > Operationalization
+* Truly _open_ science that is welcoming
 
 ## Projects
 The main project of this organization is ```dbspace```, a Python library for model-centric analysis of clinical electrophysiology in DBS.
