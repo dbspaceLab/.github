@@ -15,3 +15,10 @@ Read more about the overarching philosophy in the [organization wiki](https://gi
 ## Workshops
 There's no learning like group-learning.
 We'll set up a schedule for periodic workshops where we talk through some of the foundational engineering principles of DBS alongside hands-on notebooks.
+
+
+## Lab Spaces
+This Github Organization is the core of the DBSpaceLab.
+Other, related spaces are:
+  - [Slack Channel](dbspacelab.slack.com)
+  - [Website](dbspace.ai)
