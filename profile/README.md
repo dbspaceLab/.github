@@ -20,5 +20,5 @@ We'll set up a schedule for periodic workshops where we talk through some of the
 ## Lab Spaces
 This Github Organization is the core of the DBSpaceLab.
 Other, related spaces are:
-  - [Slack Channel](dbspacelab.slack.com)
-  - [Website](dbspace.ai)
+  - [Slack Channel](https://dbspacelab.slack.com)
+  - [Website](https://dbspace.ai)
