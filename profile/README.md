@@ -1,5 +1,5 @@
 # Welcome! 👋
-Welcome to ```DBSpace Lab```, a virtual lab focused on developing model-centric strategies for effective, efficient, ethical, and just neuromodulation.
+Welcome to ```DBSpace Lab```, a virtual **garage** focused on developing math-first, model-centric approaches for effective, efficient, ethical, and just neuromodulation.
 
 In the spirit of *citizen science*, this lab space is meant for everyone, no matter background or knowledge level.
 The critical things are: a desire to learn, to ask bold questions, and to work towards a more democratic understanding of *clinical* neuroscience.
